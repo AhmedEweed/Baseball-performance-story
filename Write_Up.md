@@ -1,7 +1,7 @@
 
 First version: [Story_v1](https://public.tableau.com/profile/ahmed.eweed#!/vizhome/Story_241/Story1?publish=yes) 
 
-Final version: [Story_final](https://public.tableau.com/profile/ahmed.eweed#!/vizhome/Story_241/Story1?publish=yes)
+Final version: [Story_final](https://public.tableau.com/profile/ahmed.eweed#!/vizhome/Storyfinal/Story2?publish=yes)
 
 # Summary
 
@@ -12,7 +12,7 @@ Weight and height seem to have no significant effect on home runs or batting ave
 # Design
 
 I prefered a simple design with all of the charts as bar charts  
-as the dataset has four numeric variables (Weight, height, HR and batting average)  
+as the dataset has four numeric variables (Weight, height, home runs and batting average)  
 and only two categorical variables (Name and handedness).  
 Therefore a bar chart is most suitble for numeric data
 
@@ -36,12 +36,18 @@ but with good design practices I succeded in conveying my message.
 
 > <cite> Ashraf Hesham </cite>
 
+> "I think a more descriptive color encoding will be useful"
+
+> <cite> Nael Ayman </cite>
+
+> "I am interested in navigating the handedness of the player myself while exploring the visualizaiton!"
+
+> <cite> Alaa Salah </cite>
+
 This is the feed back I received from my friends. it was written in Arabic,  
 so I translated and quoted it for easy understanding.  
 Most of them do not have much knowledge about baseball more than that it is a game played in the US  
-using a bat and a small ball!  
-As you can see in the feedback, there is no edits or modifications needed, so the final version of the story is the same as the first one.
-
+using a bat and a small ball!
 
 # Resources
 
