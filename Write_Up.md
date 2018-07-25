@@ -1,7 +1,7 @@
 
-First version: [Story_v1](https://eu-west-1a.online.tableau.com/t/udacityproject/views/MainGraph/Story1?iframeSizedToWindow=true&:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no)
+First version: [Story_v1](https://public.tableau.com/profile/ahmed.eweed#!/vizhome/Story_241/Story1?publish=yes) 
 
-Final version: [Story_final](https://eu-west-1a.online.tableau.com/t/udacityproject/views/MainGraph/Story1?iframeSizedToWindow=true&:embed=y&:display_count=no&:showAppBanner=false&:showVizHome=no)
+Final version: [Story_final](https://public.tableau.com/profile/ahmed.eweed#!/vizhome/Story_241/Story1?publish=yes)
 
 # Summary
 
@@ -16,7 +16,7 @@ as the dataset has four numeric variables (Weight, height, HR and batting averag
 and only two categorical variables (Name and handedness).  
 Therefore a bar chart is most suitble for numeric data
 
-also I used size as an encoding for batting average from small to large.  
+also I used color as an encoding for weight and height from light to dark indicating little to large.  
 I found that most of my friends have little knowledge about baseball itself!  
 but with good design practices I succeded in conveying my message.
 
