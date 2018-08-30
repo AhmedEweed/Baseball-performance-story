@@ -14,7 +14,12 @@ and the results I made on the dataset
 
 ### Prerequisites
 
-you should have a good taste of for art to see and understand my story.. Just kidding, there are no specific prerequisites for you to see my story and graphs.
+you should have a good taste for art  
+to see and understand my story..  
+Just kidding, there are no specific prerequisites  
+for you to see my story and graphs  
+just click the links in the `Write Up.md`  
+and see the beauty.
 
 ## Authors
 
