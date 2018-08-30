@@ -14,8 +14,7 @@ and the results I made on the dataset
 
 ### Prerequisites
 
-you should have a tableau account and must have a permission to view the project  
-to get permission please email me at [Gmail](xmega.mind10@gmail.com) 
+you should have a good taste of for art to see and understand my story.. Just kidding, there are no specific prerequisites for you to see my story and graphs.
 
 ## Authors
 
